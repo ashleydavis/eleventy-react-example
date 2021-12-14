@@ -4,6 +4,8 @@ A simple example of building a static web site on [React](https://reactjs.org/) 
 
 This project uses the plugin [`eleventy-plugin-react-static`](https://www.npmjs.com/package/eleventy-plugin-react-static) to enable Eleventy to render JSX and TSX files to static web pages (with [React hydration](https://reactjs.org/docs/react-dom.html#hydrate)).
 
+[Support the developer](https://www.codecapers.com.au/about#support-my-work)
+
 ## Pre requisites
 
 Have [Node.js](https://nodejs.org/) installed.
