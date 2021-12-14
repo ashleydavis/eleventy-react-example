@@ -1,0 +1,21 @@
+{
+  "name": "eleventy-react-example",
+  "version": "1.0.0",
+  "description": "A simple example of using React with Eleventy",
+  "main": ".eleventy.js",
+  "scripts": {
+    "build": "eleventy",
+    "test-build": "cd _site && live-server",
+    "watch": "eleventy --watch",
+    "start": "eleventy --serve"
+  },
+  "author": "ashley@codecapers.com.au",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0-beta.8",
+    "eleventy-plugin-react-static": "^0.0.7",
+    "live-server": "^1.2.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
